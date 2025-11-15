@@ -1,0 +1,7 @@
+especie_id,nome_comum,nome_cientifico,categoria,tempo_germinacao_min,tempo_germinacao_max,tempo_colheita_min,tempo_colheita_max,observacoes
+1,Alface,Lactuca sativa,hortalica,4,7,45,60,Cresce bem em clima ameno
+2,Rúcula,Eruca sativa,hortalica,4,6,30,40,Crescimento rápido
+3,Cebolinha,Allium tuberosum,temperos,10,15,90,90,Rebrota após corte
+4,Tomate cereja,Solanum lycopersicum,legume,7,10,90,120,Exige tutoramento
+5,Quiabo,Abelmoschus esculentus,legume,8,12,80,100,Adapta-se ao calor
+6,Manjericão,Ocimum basilicum,temperos,5,10,40,70,Muito aromático; atrai polinizadores

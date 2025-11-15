@@ -1,0 +1,6 @@
+canteiro_id,nome,descricao,area_m2,localizacao
+1,Canteiro 1,"Alface, rúcula, couve e acelga",12,Área norte
+2,Canteiro 2,"Cenoura, beterraba e rabanete",10,Área leste
+3,Canteiro 3,"Temperos: cebolinha, salsinha, manjericão",8,Área oeste
+4,Canteiro 4,"Tomate cereja, pimentão e abobrinha",15,Área sul
+5,Canteiro 5,Ervas medicinais e flores comestíveis,9,Horta frontal
